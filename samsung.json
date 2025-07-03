@@ -1,0 +1,105 @@
+{
+    "produtos": [
+      {
+        "marca": "Samsung",
+        "garantia": "Não especificado",
+        "itens": [
+            {
+                "modelo": "Galaxy A15 4G",
+                "ram_storage": "4/128gb",
+                "preco": "R$999,00",
+                "cores": ["azul claro"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy S23",
+                "ram_storage": "8/256gb",
+                "preco": "R$3.199,00",
+                "cores": ["Preto", "Creme"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy S23+",
+                "ram_storage": "8/512gb",
+                "preco": "R$4.100,00",
+                "cores": ["Grafite"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy S23 ultra",
+                "ram_storage": "12/512gb",
+                "preco": "R$5.100,00",
+                "cores": ["Preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy S24+",
+                "ram_storage": "12/256gb",
+                "preco": "R$5.100,00",
+                "cores": ["Cinza"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy S24 ultra",
+                "ram_storage": "12/256gb",
+                "preco": "R$6.300,00",
+                "cores": ["Cinza", "Preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy S24 ultra",
+                "ram_storage": "12/1Tb",
+                "preco": "R$6.999,00",
+                "cores": ["Cinza", "Preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy fit3",
+                "preco": "R$550,00",
+                "cores": ["Preto", "Prata", "Rosé"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy tab A9+",
+                "ram_storage": "4/64gb",
+                "preco": "R$1.300,00",
+                "cores": ["Grafite"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy tab A9+ 5G",
+                "ram_storage": "4/64gb",
+                "preco": "R$1.400,00",
+                "cores": ["Grafite"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy tab S6 lite 2024",
+                "ram_storage": "4/64gb",
+                "preco": "R$2.150,00",
+                "cores": ["Cinza"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Tablet Galaxy S9 FE",
+                "ram_storage": "6/128gb",
+                "preco": "R$2.550,00",
+                "cores": ["Cinza", "Verde"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy tab S9 FE +",
+                "ram_storage": "8/128gb",
+                "preco": "R$3.000,00",
+                "cores": ["Cinza", "Lavanda"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Galaxy Buds FE",
+                "preco": "R$500,00",
+                "estado": "novo"
+              }
+        ]
+      }
+     ]
+}

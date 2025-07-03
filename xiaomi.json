@@ -1,0 +1,163 @@
+{
+    "produtos": [
+      {
+        "marca": "Xiaomi",
+        "garantia": "Não especificado",
+        "itens": [
+            {
+                "modelo": "Redmi A3",
+                "ram_storage": "3/64gb",
+                "preco": "R$750,00",
+                "cores": ["preto", "azul", "verde"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Redmi A3",
+                "ram_storage": "4/128gb",
+                "preco": "R$820,00",
+                "cores": ["preto", "azul"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Redmi 13c",
+                "ram_storage": "4/128gb",
+                "preco": "R$900,00",
+                "cores": ["preto", "azul", "verde"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Redmi 13c",
+                "ram_storage": "8/256gb",
+                "preco": "R$980,00",
+                "cores": ["azul", "preto", "verde"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Redmi 10 prime",
+                "ram_storage": "128gb",
+                "preco": "R$980,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "Redmi 12 5G",
+                "ram_storage": "4/128gb",
+                "preco": "R$930,00",
+                "cores": ["azul", "preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Redmi 12",
+                "ram_storage": "8/256gb",
+                "preco": "R$1030,00",
+                "cores": ["azul", "preto", "silver"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 12s",
+                "ram_storage": "8/256gb",
+                "preco": "R$1150,00",
+                "cores": ["azul", "verde"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 12 5G",
+                "ram_storage": "8/256gb",
+                "preco": "R$1.390,00",
+                "cores": ["azul"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 13",
+                "ram_storage": "6/128gb",
+                "preco": "R$1100,00",
+                "cores": ["preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 13",
+                "ram_storage": "8/128gb",
+                "preco": "R$1200,00",
+                "cores": ["verde"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Poco M6 Pro",
+                "ram_storage": "12/512gb",
+                "preco": "R$1.520,00",
+                "cores": ["preto", "azul", "roxo"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 11 Pro Plus 5G",
+                "ram_storage": "6/128gb",
+                "preco": "R$1.750,00",
+                "cores": ["cinza"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 12 Pro 4G",
+                "ram_storage": "8/256gb",
+                "preco": "R$1.430,00",
+                "cores": ["preto", "branco", "azul"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 12 Pro 5G",
+                "ram_storage": "8/256gb",
+                "preco": "R$1.820,00",
+                "cores": ["preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 13 Pro 4G",
+                "ram_storage": "12/512gb",
+                "preco": "R$1.850,00",
+                "cores": ["preto", "verde", "roxo"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 13 Pro 5G",
+                "ram_storage": "12/512gb",
+                "preco": "R$2.100,00",
+                "cores": ["Preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Note 13 Pro Plus 5G",
+                "ram_storage": "8/256gb",
+                "preco": "R$2.350,00",
+                "cores": ["preto", "roxo"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Poco X6",
+                "ram_storage": "12/512gb",
+                "preco": "R$1.950,00",
+                "cores": ["azul"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Poco X6 Pro",
+                "ram_storage": "8/256gb",
+                "preco": "R$2.080,00",
+                "cores": ["preto", "cinza"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Poco X6 Pro",
+                "ram_storage": "12/512gb",
+                "preco": "R$2.199,99",
+                "cores": ["preto", "cinza"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Xiaomi Pad 6",
+                "ram_storage": "8/256gb",
+                "preco": "R$2.100,00",
+                "cores": ["blue"],
+                "estado": "novo"
+              }
+        ]
+      }
+     ]
+}

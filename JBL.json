@@ -1,0 +1,119 @@
+{
+    "produtos": [
+      {
+        "marca": "JBL",
+        "garantia": "Não especificado",
+        "itens": [
+            {
+                "modelo": "JBL GO 3",
+                "potencia": "4.2w",
+                "preco": "R$ 350,00",
+                "cores": ["Preto", "Azul", "Verde", "Cinza"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL LINKPORTABLE",
+                "preco": "R$ 700,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL FLIP 6",
+                "potencia": "20w",
+                "preco": "R$ 800,00",
+                "cores": ["Vermelho", "Preto", "Azul"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL CHARGE 5",
+                "preco": "R$ 800,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL XTREME 3",
+                "preco": "R$ 1.200,00",
+                "cores": ["Preto", "Azul"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL Partybox Encore",
+                "descricao": "com microfone",
+                "preco": "R$ 1.799,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL Boombox 2",
+                "preco": "R$ 1.700,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL Boombox 3",
+                "preco": "R$ 1.890,00",
+                "cores": ["Preta"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL Boombox 3",
+                "preco": "R$ 1.950,00",
+                "cores": ["Camuflada"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "JBL Boombox 3 WiFi",
+                "preco": "R$ 2.499,00",
+                "cores": ["Preta"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE QUANTUM 100",
+                "preco": "R$ 350,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE TUNE 500",
+                "preco": "R$ 300,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE TUNE 110",
+                "preco": "R$ 180,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE TUNE 520BT",
+                "preco": "R$ 300,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE TUNE 720BT",
+                "preco": "R$ 450,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE LIVE 660NC",
+                "preco": "R$ 750,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE TUNE 115TWS",
+                "preco": "R$ 450,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE REFLECTFLOW",
+                "preco": "R$ 800,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE WAVE FLEX",
+                "preco": "R$ 450,00",
+                "estado": "novo"
+              },
+              {
+                "modelo": "FONE ENDURANCE PEAK3",
+                "preco": "R$ 750,00",
+                "estado": "novo"
+              }
+        ]
+      }
+     ]
+}

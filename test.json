@@ -1,0 +1,341 @@
+{
+    "produtos": [
+      {
+        "marca": "Apple",
+        "garantia": "Não especificado",
+        "itens": [
+          {
+            "modelo": "iPhone 8",
+            "ram_storage": "64GB",
+            "preco": "R$849,99",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 8 Plus",
+            "ram_storage": "64GB",
+            "preco": "R$950,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 8 Plus",
+            "ram_storage": "256GB",
+            "preco": "R$1.200,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone X",
+            "ram_storage": "64GB",
+            "preco": "R$1.100,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone X",
+            "ram_storage": "256GB",
+            "preco": "R$1.350,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone XS",
+            "ram_storage": "64GB",
+            "preco": "R$1.290,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone XR",
+            "ram_storage": "64GB",
+            "preco": "R$1.150,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone XR",
+            "ram_storage": "128GB",
+            "preco": "R$1.399,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone XS Max",
+            "ram_storage": "64GB",
+            "preco": "R$1.400,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone XS Max",
+            "ram_storage": "256GB",
+            "preco": "R$1.600,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 11",
+            "ram_storage": "64GB",
+            "preco": "R$1.650,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 11",
+            "ram_storage": "128GB",
+            "preco": "R$1.899,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 11 Pro",
+            "ram_storage": "64GB",
+            "preco": "R$2.200,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 11 Pro",
+            "ram_storage": "256GB",
+            "preco": "R$2.450,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 11 Pro Max",
+            "ram_storage": "64GB",
+            "preco": "R$2.250,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 11 Pro Max",
+            "ram_storage": "256GB",
+            "preco": "R$2.550,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 12",
+            "ram_storage": "64GB",
+            "preco": "R$2.000,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 12",
+            "ram_storage": "128GB",
+            "preco": "R$2.299,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 12 Pro",
+            "ram_storage": "128GB",
+            "preco": "R$2.700,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 12 Pro",
+            "ram_storage": "256GB",
+            "preco": "R$2.900,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 12 Pro Max",
+            "ram_storage": "128GB",
+            "preco": "R$3.000,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 12 Pro Max",
+            "ram_storage": "256GB",
+            "preco": "R$3.350,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 13",
+            "ram_storage": "128GB",
+            "preco": "R$2.799,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 13 Pro",
+            "ram_storage": "128GB",
+            "preco": "R$3.500,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 13 Pro",
+            "ram_storage": "256GB",
+            "preco": "R$3.649,99",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 13 Pro Max",
+            "ram_storage": "128GB",
+            "preco": "R$3.900,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 13 Pro Max",
+            "ram_storage": "256GB",
+            "preco": "R$4.150,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 14",
+            "ram_storage": "128GB",
+            "preco": "R$3.100,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 14 Pro",
+            "ram_storage": "128GB",
+            "preco": "R$4.250,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 14 Pro",
+            "ram_storage": "256gb",
+            "preco": "R$4.499,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 14 Pro Max",
+            "ram_storage": "128gb",
+            "preco": "R$4.850,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 14 Pro Max",
+            "ram_storage": "256gb",
+            "preco": "R$5.000,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 14 Pro Max",
+            "ram_storage": "512gb",
+            "preco": "R$5.250,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "iPhone 15 Pro Max",
+            "ram_storage": "256gb",
+            "preco": "R$5.850,00",
+            "estado": "seminovo"
+          },
+          {
+            "modelo": "Apple Pencil 1",
+            "preco": "R$ 850,00",
+            "estado": "novo"
+          },
+          {
+            "modelo": "Apple Pencil 2",
+            "preco": "R$ 900,00",
+            "estado": "novo"
+          },
+          {
+            "modelo": "Airtag",
+            "preco": "R$ 260,00",
+            "estado": "novo"
+          },
+          {
+            "modelo": "Airpods 2",
+            "preco": "R$ 850,00",
+            "estado": "novo"
+          },
+          {
+            "modelo": "Airpods 3",
+            "preco": "R$ 1.349,99",
+            "estado": "novo"
+          },
+          {
+            "modelo": "AirPods Pro 1",
+            "preco": "R$ 1.250,00",
+            "estado": "novo"
+          },
+          {
+            "modelo": "AirPods Pro 2 tipo C",
+            "preco": "R$ 1.450,00",
+            "estado": "novo"
+          },
+          {
+            "modelo": "iPad Air 4ª geração Wi-Fi",
+            "ram_storage": "64GB",
+            "preco": "R$ 3.049,99",
+            "cores": ["Space Gray"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "iPad Air 5ª geração",
+            "ram_storage": "64GB Wi-Fi",
+            "preco": "R$ 3.649,99",
+            "cores": ["Space Gray", "Starlight"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "iPad 10",
+            "ram_storage": "64GB",
+            "preco": "R$ 2.700,00",
+            "cores": ["Pink"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "iPad 10",
+            "ram_storage": "64GB",
+            "preco": "R$ 2.750,00",
+            "cores": ["Azul"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "iPad 10",
+            "ram_storage": "64GB",
+            "preco": "R$ 2.850,00",
+            "cores": ["Branco"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "iPad 10",
+            "ram_storage": "256GB",
+            "preco": "R$ 3.600,00",
+            "cores": ["Branco"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "MacBook Air M1",
+            "ram_storage": "256GB",
+            "preco": "R$ 5.050,00",
+            "cores": ["Preto", "Dourado"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "MacBook Air M2",
+            "ram_storage": "256GB 15”",
+            "tam_tela": "15”",
+            "preco": "R$ 6.950,00",
+            "cores": ["Preto", "Silver"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "Apple Watch Série SE 2",
+            "tam_tela": "44mm",
+            "preco": "R$ 1.900,00",
+            "cores": ["Silver"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "Apple Watch Série 8",
+            "tam_tela": "41mm",
+            "preco": "R$ 2.349,99",
+            "cores": ["Midnight", "Silver"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "Apple Watch Série 8",
+            "tam_tela": "45mm",
+            "preco": "R$ 2.300,00",
+            "cores": ["Silver"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "Apple Watch Série 9",
+            "tam_tela": "45mm",
+            "preco": "R$ 2.580,00",
+            "cores": ["Midnight"],
+            "estado": "novo"
+          },
+          {
+            "modelo": "Apple Watch Série Ultra 2",
+            "tam_tela": "49mm",
+            "preco": "R$ 4.550,00",
+            "cores": ["Branco", "Azul", "Laranja"],
+            "estado": "novo"
+          }
+        ]
+      }
+     ]
+}

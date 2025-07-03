@@ -1,0 +1,45 @@
+{
+    "produtos": [
+      {
+        "marca": "Realme",
+        "garantia": "Não especificado",
+        "itens": [
+            {
+                "modelo": "Realme Note 50",
+                "ram_storage": "4/128gb",
+                "preco": "R$855,00",
+                "cores": ["azul", "preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "C55",
+                "ram_storage": "8/256gb",
+                "preco": "R$999,00",
+                "cores": ["preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "C55",
+                "ram_storage": "8/256gb",
+                "preco": "R$1030,00",
+                "cores": ["dourado"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Realme 8 5G",
+                "ram_storage": "6/128gb",
+                "preco": "R$1050,00",
+                "cores": ["preto"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "Realme 9i",
+                "ram_storage": "6/128gb",
+                "preco": "R$999,00",
+                "cores": ["black"],
+                "estado": "novo"
+              }
+        ]
+      }
+     ]
+}

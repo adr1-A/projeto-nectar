@@ -1,0 +1,24 @@
+{
+    "produtos": [
+      {
+        "marca": "OPPO",
+        "garantia": "Não especificado",
+        "itens": [
+            {
+                "modelo": "OPPO A16",
+                "ram_storage": "64gb",
+                "preco": "R$900,00",
+                "cores": ["blue", "black"],
+                "estado": "novo"
+              },
+              {
+                "modelo": "OPPO A54",
+                "ram_storage": "128gb",
+                "preco": "R$1000,00",
+                "cores": ["blue", "black"],
+                "estado": "novo"
+              }
+        ]
+      }
+     ]
+}
